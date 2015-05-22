@@ -14,7 +14,7 @@
    		limitations under the License.   			
  */
 
-package org.apache.cordova.shermcamera;
+package com.plugin.camera;
 
 import java.io.*;
 

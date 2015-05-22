@@ -27,8 +27,8 @@
             <clobbers target="window.plugins.phonegapCamera" />
         </js-module>
 
-        <source-file src="src/android/CameraActivity.java" target-dir="src/com/plugin/phonegapCamera" />
-		<source-file src="src/android/ForegroundCameraLauncher.java" target-dir="src/com/plugin/phonegapCamera" />		
-		<source-file src="src/android/ForegroundCameraPreview.java" target-dir="src/com/plugin/phonegapCamera" />		
+        <source-file src="src/android/CameraActivity.java" target-dir="src/com/plugin/camera/phonegapCamera" />
+		<source-file src="src/android/ForegroundCameraLauncher.java" target-dir="src/com/plugin/camera/phonegapCamera" />		
+		<source-file src="src/android/ForegroundCameraPreview.java" target-dir="src/com/plugin/camera/phonegapCamera" />		
     </platform>
 </plugin>

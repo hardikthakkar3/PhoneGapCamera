@@ -14,7 +14,7 @@
    		limitations under the License.   			
  */
 
-package org.apache.cordova.shermcamera;
+package com.plugin.camera;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -33,7 +33,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.FrameLayout;
-import com.rspl.eLearning.R;
 
 /**
  * Camera Activity Class. Configures Android camera to take picture and show it.
